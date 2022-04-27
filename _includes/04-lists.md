@@ -1,5 +1,5 @@
-1. Item 1 😄
-2. Item 2 😞
-3. Item 3 📶
-   1. Item 3a ✨
-   2. Item 3b ❤️
+1. Pizza 😄
+2. Lasagna 😞
+3. egg-fried rice 📶
+   1. brown rice ✨
+   2. white rice ❤️

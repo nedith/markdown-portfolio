@@ -1,5 +1,4 @@
- 
-*I am a great team player*
+ *I am a great team player*
 _I love collaborating_
 
 **I have skills in HTML, CSS and Javascript**
